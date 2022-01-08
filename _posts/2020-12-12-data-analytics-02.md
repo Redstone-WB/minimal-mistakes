@@ -2,7 +2,7 @@
 title: "Structuring ML projects_02"
 date: 2020-05-01 23:59:00 -0400
 categories: ML, DataAnalytics
-permalink : /posts/
+permalink : /posts/ml/#2
 published: true
 ---
 

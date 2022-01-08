@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "ML Study"
-    url: /posts/
+    url: /posts/ml/
   - title: "Book Review"
-    url: /books/
+    url: /posts/
   # - title: "Sitemap"
   #   url: /sitemap/
