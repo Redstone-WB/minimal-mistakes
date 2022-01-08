@@ -21,7 +21,7 @@ published: true
   - Topic Browser에서 활용되고 있는 551개 columns 이용
   - 서비스관리번호 + 551개 topics
 - 벡터 간 거리(유사도) 계산 기준 : 코사인 유사도
-  - ![cosine](./img/cosine_sim.png)
+  - ![cosine](../img/cosine_sim.png)
   (출처 : 위키백과)
 
 ### 4. metric
@@ -56,5 +56,5 @@ published: true
 - double loop (소요 시간이 어마무시) -> single loop (50만명 기준, 도커 2개로 20시간) -> No loop (50만명 기준, 3분)
 - cosine 유사도 계산을 위해 matrix multiplication 이용 (No Loop)
 - 계산 원리는 아래 이미지 참고 
-![vectorization](./img/vectorization.png)
+![vectorization](../img/vectorization.png)
 

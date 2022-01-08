@@ -140,7 +140,7 @@ Dev/ Test Set을 모두 App. 이미지로 구성
 - Transfer learning이 실제로는 더 많이 쓰이기는 하지만,,,
 ex> 자율주행 자동차 예시,,, 행인/신호등/교통표지판/차량 네 가지를 한번에 인식하고자 할 때, y햇의 형태는 (4,1) 벡터가 된다. (Softmax Reg.와는 다른 것이, one-hot vec형태로 나오는 것이 아님. 즉, 한 이미지에 네 가지 모두가 있을 수도 있음.)
 
-![loss](./img/struct_ml_prj_02_loss.png)
+![loss](../img/struct_ml_prj_02_loss.png)
 
 만약, Train 에 사용되는 이미지들의 label이 완전하지 않다면? (ex. (1, ?, ?, 1) 이런 식으로)
 - Subset of labels만 있어도 Train이 가능하다!

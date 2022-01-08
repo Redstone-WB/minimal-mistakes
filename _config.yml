@@ -299,7 +299,7 @@ defaults:
   # _ml
   - scope:
       path: ""
-      type: posts
+      type: ml
     values:
       layout: single
       author_profile: true
@@ -307,7 +307,7 @@ defaults:
   # _d3
   - scope:
       path: ""
-      type: posts
+      type: d3
     values:
       layout: single
       author_profile: true

@@ -9,15 +9,15 @@ published: true
 ### Bias-Variance Tradeoff
   1. 자료 Link : https://bywords.tistory.com/entry/번역-유치원생도-이해할-수-있는-biasvariance-tradeoff
   2. Error(f(x)) = noise + bias + variance
-   ![bias-variance](./img/bias-variance.png)
+   ![bias-variance](../img/bias-variance.png)
      1. 위 수식에서 'f(x)햇' 은 분류기 혹은 모델을 의미한다.
      2. 여기서 noise (sigma^2) 는 irreducible Error를 의미한다.
      3. 고양이 분류기를 예제로 들어 본다면,,
         1.  강아지나 코알라도 고양이로 분류하는 것 : 너무 적은 수의 feature 사용, high Bias (Underfitting)
         2.  코숏 고양이만 고양이로 분류하고, 노르웨이 숲 고양이는 고양이가 아닌 것으로 분류 : 너무 많은 수의 feature 사용, high Variance (Overfitting)
-   ![korean-short](./img/korean_short.png)
+   ![korean-short](../img/korean_short.png)
    사진출처 : https://mdngsh0621.tistory.com/3
-   ![norwegian](./img/norwegian.png)
+   ![norwegian](../img/norwegian.png)
    사진출처 : http://www.petzzi.com/bbs/board.php?bo_table=news&wr_id=2500
 
 
@@ -36,7 +36,7 @@ published: true
           2. 관련 링크 2 (sung kim) : https://pythonkim.tistory.com/23
        4. Regularization
           1. Cost function에 penalty항 추가 (아래 수식은 Regression에서의 Cost function)
-          ![reg_cost_func](./img/reg_cost_func.png)
+          ![reg_cost_func](../img/reg_cost_func.png)
           1. 관련 링크 : http://www.incodom.kr/기계학습/정규화
        5. Early Stopping : Validation set에 대한 모델의 Loss가 줄어드는 정도를 매 학습 Epoch마다 확인하여, 성능이 더 이상 증가하지 않을 때 학습을 중단시키는 것.
           1. 관련 링크 : https://rfriend.tistory.com/188
