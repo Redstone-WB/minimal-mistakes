@@ -2,6 +2,7 @@
 title: "Class imbalance"
 date: 2020-05-04 23:59:00 -0400
 categories: ML, DataAnalytics
+permalink : /posts/
 published: true
 ---
 
