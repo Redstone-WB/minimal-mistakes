@@ -73,7 +73,7 @@ cf. (Dev set = Holdout Cross Validation Set, Hyperparam. Tuning을 위해 사용
     => 이 두개만으로는, 어떤 hyperparam으로 빠르게 선택해서 loop 돌려야할지 알 수 없다.
 3.  P와 R의 조화평균
 
-![weights](_ml/img/bias-variance.png)
+![weights](./_ml/img/bias-variance.png)
 
 
     - Reasonable way to combine R and P
@@ -115,7 +115,7 @@ cf. (Dev set = Holdout Cross Validation Set, Hyperparam. Tuning을 위해 사용
 ##### 1. e.g. Alg A 의 Error는 3%, Alg B의 Error는 5% 지만 A의 Error가 중대한 실수(pornographic image를 cat으로 분류)를 저지르는 경우에는 어떻게 해결할 수 있을까?
    => 가중치로 해결
 
-![weights_2](_ml/img/bias-variance.png)
+![weights_2](./_ml/img/bias-variance.png)
 
 - 원래 분모는 dev의 개수이지만 가중치가 추가되면서 normalizing constant가 바뀜.
 - Defining Evaluation metric (Target을 place 시키는 것) 과 Do well on some metric (Target에 잘 맞추는 것) 은 별개의 문제임.
