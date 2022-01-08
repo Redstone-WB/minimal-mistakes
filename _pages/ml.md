@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: 기계학습 관련
 layout: collection
 permalink: /ml/
 collection: ml
