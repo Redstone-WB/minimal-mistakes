@@ -2,7 +2,6 @@
 title: "Structuring ML projects_01"
 date: 2020-05-01 23:59:00 -0400
 categories: ML
-permalink : /posts/ml/#1
 published: true
 ---
 
