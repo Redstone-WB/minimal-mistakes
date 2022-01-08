@@ -1,0 +1,6 @@
+,id,Name,population,Unnamed: 3,WHO Region,Cases - cumulative total,Cases - cumulative total per 100000 population,Cases - newly reported in last 7 days,Cases - newly reported in last 7 days per 100000 population,Cases - newly reported in last 24 hours,Deaths - cumulative total,Deaths - cumulative total per 100000 population,Deaths - newly reported in last 7 days per 100000 population,Deaths - newly reported in last 7 days,Deaths - newly reported in last 24 hours,ratio,death_merge_ratio
+1,IND,India,1173108018,0,South-East Asia,31572344.0,2287.84,279282.0,20.24,44230.0,423217.0,30.67,0.27,3747.0,555.0,0.026913415913588958,0.03682946357085669
+2,USA,United States,310232863,0,Americas,34564448.0,10442.35,471734.0,142.52,90660.0,607095.0,183.41,0.65,2155.0,409.0,0.11141452799602343,0.328538283062645
+3,IDN,Indonesia,242968342,0,South-East Asia,3372374.0,1232.94,289964.0,106.01,41168.0,92311.0,33.75,4.28,11713.0,1759.0,0.013879890574386024,0.05122513446597797
+4,BRA,Brazil,201103330,0,Americas,19797086.0,9313.67,323132.0,152.02,48013.0,553179.0,260.25,3.56,7575.0,1344.0,0.09844235796592726,0.24198019801980197
+18,IRN,Iran,67037517,0,Eastern Mediterranean,3826447.0,4555.68,202607.0,241.22,34433.0,90074.0,107.24,2.39,2011.0,292.0,0.05707918746453572,0.016409746394828444
