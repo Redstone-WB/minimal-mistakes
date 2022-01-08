@@ -207,6 +207,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  ml:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -288,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _ml
+  - scope:
+      path: ""
+      type: ml
+    values:
+      layout: single
+      author_profile: true
+      share: true
