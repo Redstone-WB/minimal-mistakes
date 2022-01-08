@@ -212,6 +212,9 @@ collections:
   ml:
     output: true
     permalink: /:collection/:path/
+  d3:
+    output: true
+    permalink : /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -296,7 +299,15 @@ defaults:
   # _ml
   - scope:
       path: ""
-      type: ml
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _d3
+  - scope:
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true

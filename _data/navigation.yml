@@ -8,5 +8,5 @@ main:
     url: /ml/
   - title: "Book Review"
     url: /ml/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "d3"
+    url: /d3/

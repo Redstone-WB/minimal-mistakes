@@ -2,13 +2,12 @@
 title: "Class imbalance"
 date: 2020-05-04 23:59:00 -0400
 categories: ML, DataAnalytics
-permalink : /posts/ml/#5
 published: true
 ---
 
 ### UnderSampling & OverSampling
 
-- S사 데이터 비대칭 문제를 해결하기 위함.
+- 데이터 비대칭 문제를 해결하기 위함.
 - 출처 1 : https://datascienceschool.net/view-notebook/c1a8dad913f74811ae8eef5d3bedc0c3/
 - 출처 2 : https://towardsdatascience.com/having-an-imbalanced-dataset-here-is-how-you-can-solve-it-1640568947eb
 - 출처 3 : https://medium.com/james-blogs/handling-imbalanced-data-in-classification-problems-7de598c1059f

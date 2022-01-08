@@ -2,13 +2,10 @@
 title: "Lookalike model"
 date: 2020-05-05 23:59:00 -0400
 categories: ML, DataAnalytics
-permalink : /posts/ml/#6
 published: true
 ---
 
 ## Lookalike Model
-
-- S사 합작, D 서비스 (20년 3월 캠페인 진행) 에 활용한 Look-alike model
 
 ### 1. 준거 집단
 - Lookalike model의 기준이 되는 준거 집단 설정
