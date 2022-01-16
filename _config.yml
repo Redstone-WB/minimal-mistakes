@@ -216,6 +216,9 @@ collections:
   d3:
     output: true
     permalink : /:collection/:path/
+  book:
+    output: true
+    permalink : /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -313,3 +316,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: book
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
